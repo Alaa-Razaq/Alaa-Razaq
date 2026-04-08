@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Alaa Razaq 👋
 
-<!--
-**Alaa-Razaq/Alaa-Razaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with experience in Quality Assurance and program data analysis.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python
+- Tableau
+- Excel
+- Data Cleaning
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Working On
+- Building real-world data projects
+- Improving SQL, Python, and Tableau skills
+- Completing Google Advanced Data Analytics Certificate
+
+## Featured Projects
+- California Wildfire Analysis
+- Payment Trends Analysis
+
+## Education & Certifications
+- B.S. in International Business – San Francisco State University
+- Google Data Analytics Professional Certificate
+- Google Advanced Data Analytics Certificate (In Progress)
