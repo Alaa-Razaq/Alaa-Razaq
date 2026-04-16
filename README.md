@@ -22,4 +22,4 @@ Aspiring Data Analyst with experience in Quality Assurance and program data anal
 ## Education & Certifications
 - B.S. in International Business – San Francisco State University
 - Google Data Analytics Professional Certificate
-- Google Advanced Data Analytics Certificate (In Progress)
+- Google Advanced Data Analytics Certificate 
