@@ -17,7 +17,9 @@ Aspiring Data Analyst with experience in Quality Assurance and program data anal
 
 ## Featured Projects
 - California Wildfire Analysis
-- Payment Trends Analysis
+- Card vs Digital Wallet Analysis
+- Program Performance Analysis
+- Sales Profit Analysis
 
 ## Education & Certifications
 - B.S. in International Business – San Francisco State University
