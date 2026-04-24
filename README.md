@@ -12,7 +12,7 @@ Aspiring Data Analyst with experience in Quality Assurance and program data anal
 
 ## What I’m Working On
 - Building real-world data projects
-- Improving SQL, Python, and Tableau skills
+- Improving SQL, Python, Excel, and Tableau skills
 - Completing Google Advanced Data Analytics Certificate
 
 ## Featured Projects
