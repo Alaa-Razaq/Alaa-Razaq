@@ -20,6 +20,7 @@ Aspiring Data Analyst with experience in Quality Assurance and program data anal
 - Card vs Digital Wallet Analysis
 - Program Performance Analysis
 - Sales Profit Analysis
+- E-Commerce-Revenue-Analysis-Dashboard
 
 ## Education & Certifications
 - B.S. in International Business – San Francisco State University
