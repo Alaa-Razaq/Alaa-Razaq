@@ -36,7 +36,7 @@ Tracked KPIs and outcomes to evaluate program effectiveness.
 ### 🔹 Sales Profit Analysis  
 Identified profit drivers, loss-making products and discount impact.
 
-### 🔹 E-Commerce Revenue Analysis Dashboard  
+### 🔹 E-Commerce Revenue Analysis  
 Analyzed ~1M transactions to uncover revenue trends and customer behavior.
 
 ---
